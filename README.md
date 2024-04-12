@@ -7,7 +7,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" />  
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" /> 
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80"/>
-<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue" height="80"/>
+<img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Vue" height="80"/>
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="80"/> 
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="React" height="80"/>
 <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="80"/>
